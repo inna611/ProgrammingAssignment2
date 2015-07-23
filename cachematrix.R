@@ -1,4 +1,4 @@
-## These functions 
+## These functions calculate the inverse matrix and save the result casched
 
 ## The function creates a list containing the functions
 ## 1. To set matrix
