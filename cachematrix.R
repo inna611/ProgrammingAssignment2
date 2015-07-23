@@ -1,4 +1,4 @@
-## These functions calculate the inverse matrix and save the result casched
+## These functions calculate the inverse matrix and save the result cached
 
 ## The function creates a list containing the functions
 ## 1. To set matrix
@@ -21,8 +21,8 @@ inv <- NULL
 }
 
 
-## While the inverse matrix is saved into casche, the function gets it
-## otherwise it finds inverse matrix and store it into casche
+## While the inverse matrix is saved into cache, the function gets it
+## otherwise it finds inverse matrix and store it into cache
 
 cacheSolve <- function(x, ...) {
         ## Return a matrix that is the inverse of 'x'
